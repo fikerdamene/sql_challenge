@@ -16,6 +16,7 @@ Data modeling is done by using QuickDBD, a quick and intuitive tool for designin
 
 
 Data Engineering
+
 •	The SQL Query is prepared manually to create each of the tables within the Database by using my ERD with the idea to practice and gain some additional experience of writing SQL queries.
 
 •	Created each of the six tables, providing all column names, Data types, Primary Keys and referencing any required Foreign Keys and indexes within the tables.
