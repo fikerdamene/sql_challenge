@@ -14,6 +14,8 @@ Data modeling is done by using QuickDBD, a quick and intuitive tool for designin
 
 -Reviewed my schema design for accuracy and completeness. Made any necessary refinements to ensure my database model aligns with my requirements.
 
+-The model could be retrieved from resources folder.
+
 
 Data Engineering
 
@@ -21,7 +23,7 @@ Data Engineering
 
 •	Created each of the six tables, providing all column names, Data types, Primary Keys and referencing any required Foreign Keys and indexes within the tables.
 
-•	With the tables created, the built-in pgAdmin 4 is used to import each of the CSV files into the created tables.
+•	With the tables created, the built-in pgAdmin 4 is used to import each of the CSV files into the created tables. 
 
 
 Data Analysis
