@@ -21,7 +21,7 @@ CREATE TABLE employees(
     emp_no INT PRIMARY KEY,
 	emp_title_id VARCHAR(10) NOT NULL,
     birth_date DATE NOT NULL,
-    first_name  NOTVARCHAR(50) NULL,
+    first_name  VARCHAR(50) NOT NULL,
     last_name VARCHAR(50) NOT NULL,
     sex VARCHAR(1) NOT NULL,
     hire_date DATE NOT NULL,
